@@ -5,7 +5,7 @@
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Mostafizur Rahman</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Mostafizur Rahman Mahin</h1></summary>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;JavaScript+Enthusiast;Frontend+%2B+Backend+Developer;Always+Learning+New+Things" alt="Typing SVG" />
     </a>
