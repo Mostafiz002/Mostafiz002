@@ -61,6 +61,9 @@
 ### Deployment:
 [![Deployment](https://skillicons.dev/icons?i=vercel,netlify,firebase)]()
 
+### Others:
+[![Deployment](https://skillicons.dev/icons?i=wordpress,elementor)]()
+
 <br/>
 
 <!--- statistics --->
