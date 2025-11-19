@@ -7,7 +7,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Mostafizur Rahman Mahin</h1></summary>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;JavaScript+Enthusiast;Frontend+%2B+Backend+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=6517A9&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;JavaScript+Enthusiast;Frontend+%2B+Backend+Developer;Always+Learning+New+Things" alt="Typing SVG" />
     </a>
   </ul>
 </div>
@@ -15,7 +15,7 @@
 <br/>
 
 <!--- about --->
-- 👋 Hi, I’m **[@Mostafiz002](https://github.com/Mostafiz002)**
+- 👋 Hi, I’m **Mostafizur Rahman Mahin**
 - 🖥️ I build full-stack projects using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.
 - 🎨 I love creating clean UI and smooth user experiences with **React.js & Tailwind CSS**.
 - 🗄️ I build efficient APIs using **Node.js, Express.js & MongoDB**.
