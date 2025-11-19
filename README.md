@@ -26,14 +26,15 @@
 <br/>
 
 <!--- socials --->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> CONNECT WITH ME:</b>
 
 <div>
   <p align="left">
-    <a href="https://www.linkedin.com/in/mostafiz04/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
-    </a>
-     <a href="https://dev.to/mo_mahin_47019e086b50c4d9" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="touhidcodes" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/mostafiz04/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" width="50" /></a>
+    <a href="https://dev.to/mo_mahin_47019e086b50c4d9" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="touhidcodes" height="40" width="50" /></a>
+    <a href="https://discord.com/users/1265744554636873768" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="40" width="50" /></a>
+    <a  href="mailto:mo.mahin4@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="mo.mahin4@gmail.com" height="40" width="50" /></a>
+    <a href="https://www.facebook.com/mahinmostafiz.m" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" alt="touhidcodes#9825" height="40" width="50" /></a>
   </p>
 </div>
 
@@ -55,7 +56,7 @@
 [![Database](https://skillicons.dev/icons?i=mongodb)]()
 
 ### Tools:
-[![Tools](https://skillicons.dev/icons?i=figma,git,github,vscode,postman,windows)]()
+[![Tools](https://skillicons.dev/icons?i=figma,photoshop,git,github,vscode,postman,windows)]()
 
 ### Deployment:
 [![Deployment](https://skillicons.dev/icons?i=vercel,netlify,firebase)]()
@@ -80,10 +81,14 @@
 
 <br/>
 
+
 <!--- random quote --->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
+
+
+<br/>
 
 ## My Projects:
 Check the pinned repositories below 👇
