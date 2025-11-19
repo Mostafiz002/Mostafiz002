@@ -55,7 +55,7 @@
 [![Database](https://skillicons.dev/icons?i=mongodb)]()
 
 ### Tools:
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,windows)]()
+[![Tools](https://skillicons.dev/icons?i=figma,git,github,vscode,postman,windows)]()
 
 ### Deployment:
 [![Deployment](https://skillicons.dev/icons?i=vercel,netlify,firebase)]()
@@ -68,9 +68,15 @@
 ### GitHub Contributions:
 ![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
 
-### Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafiz002&theme=swift&layout=compact" /> 
+### GitHub Statistics:
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafiz002&theme=swift&layout=compact" /> </a> | <a><img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafiz002&theme=react-dark&hide_border=true&area=true&bg_color=000000" width="55%"/></a> |
+| ------------- | ------------- |
 
+
+### Stats:
+
+ <!-- Activity Graph -->
+  
 
 <br/>
 
@@ -78,4 +84,13 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
+
+## My Projects:
+Check the pinned repositories below 👇
+
+</div>
+
+<p align="left" style="background-color: #000000; padding: 10px; border-radius: 5px;">
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=touhidcodes&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
+</p>
 
