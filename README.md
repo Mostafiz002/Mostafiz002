@@ -14,14 +14,26 @@
 
 <br/>
 
-<!--- about --->
-- 👋 Hi, I’m **Mostafizur Rahman Mahin**
-- 🖥️ I build full-stack projects using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.
-- 🎨 I love creating clean UI and smooth user experiences with **React.js & Tailwind CSS**.
-- 🗄️ I build efficient APIs using **Node.js, Express.js & MongoDB**.
-- 🌱 Currently learning **advanced MERN patterns, authentication, and optimization**.
-- 💬 Ask me about **JavaScript, MERN Stack, REST APIs, React.js, Node.js**.
+<table>
+<tr>
+<td width="65%">
+<h3>I am an enthusiastic MERN Stack Developer focused on creating seamless user experiences and scalable full-stack solutions. With strong skills in JavaScript, REST APIs, and responsive design, I build clean and efficient applications using MongoDB, Express.js, React, and Node.js. I enjoy simplifying complex problems and continuously improving my skills across both frontend and backend development.</h3>
+
+- Working with React, Next.js, Node.js, and MongoDB
+- Passionate about building real-world, user-focused applications
+- Open to collaboration on MERN and beginner-friendly open-source projects
+- Working toward developing advanced full-stack skills
 - 📫 Reach me anytime: **mo.mahin4@gmail.com**
+
+</td>
+<td width="35%" align="center">
+
+<!-- Professional Developer GIF -->
+<img src="https://i.ibb.co.com/3YMrF8xd/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Developer Animation" width="300"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -77,19 +89,6 @@
 | ------------- | ------------- |
 
 
-### Stats:
-
- <!-- Activity Graph -->
-  
-
-<br/>
-
-
-<!--- random quote --->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
-
 
 <br/>
 
@@ -99,6 +98,6 @@ Check the pinned repositories below 👇
 </div>
 
 <p align="left" style="background-color: #000000; padding: 10px; border-radius: 5px;">
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=touhidcodes&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafiz002&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
 </p>
 
