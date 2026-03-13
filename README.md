@@ -19,9 +19,7 @@
 <td width="65%">
 <h3>I am an enthusiastic MERN Stack Developer focused on creating seamless user experiences and scalable full-stack solutions. With strong skills in JavaScript, REST APIs, and responsive design, I build clean and efficient applications using MongoDB, Express.js, React, and Node.js. I enjoy simplifying complex problems and continuously improving my skills across both frontend and backend development.</h3>
 
-- Working with React, Next.js, Node.js, and MongoDB
-- Passionate about building real-world, user-focused applications
-- Open to collaboration on MERN and beginner-friendly open-source projects
+- Working with React, Next.js, Node.js, MongoDB, Postgres, Prisma
 - Working toward developing advanced full-stack skills
 - 📫 Reach me anytime: **mo.mahin4@gmail.com**
 
