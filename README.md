@@ -17,7 +17,9 @@
 <table>
 <tr>
 <td width="65%">
-<h3>I am an enthusiastic MERN Stack Developer focused on creating seamless user experiences and scalable full-stack solutions. With strong skills in JavaScript, REST APIs, and responsive design, I build clean and efficient applications using MongoDB, Express.js, React, and Node.js. I enjoy simplifying complex problems and continuously improving my skills across both frontend and backend development.</h3>
+<h3>Driven Full Stack Developer and CSE student, passionate about solving complex problems through technology. Proven track record of 
+developing secure, responsive applications with React, Node.js, and PostgreSQL/MongoDB. Eager to leverage my expertise in API 
+security, role-based access control, and real-time synchronization to contribute to impactful, real-world digital solutions.</h3>
 
 - Working with React, Next.js, Node.js, MongoDB, Postgres, Prisma
 - Working toward developing advanced full-stack skills
@@ -41,7 +43,6 @@
 <div>
   <p align="left">
     <a href="https://www.linkedin.com/in/mostafiz04/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" width="50" /></a>
-    <a href="https://dev.to/mo_mahin_47019e086b50c4d9" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="touhidcodes" height="40" width="50" /></a>
     <a href="https://discord.com/users/1265744554636873768" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="40" width="50" /></a>
     <a  href="mailto:mo.mahin4@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="mo.mahin4@gmail.com" height="40" width="50" /></a>
     <a href="https://www.facebook.com/mahinmostafiz.m" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" alt="touhidcodes#9825" height="40" width="50" /></a>
