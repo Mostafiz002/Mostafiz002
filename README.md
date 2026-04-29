@@ -41,11 +41,10 @@ security, role-based access control, and real-time synchronization to contribute
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> CONNECT WITH ME:</b>
 
 <div>
-  <p align="left">
+  <p align="left" style="display:flex;">
     <a href="https://www.linkedin.com/in/mostafiz04/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" width="50" /></a>
     <a href="https://discord.com/users/1265744554636873768" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="40" width="50" /></a>
     <a  href="mailto:mo.mahin4@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="mo.mahin4@gmail.com" height="40" width="50" /></a>
-    <a href="https://www.facebook.com/mahinmostafiz.m" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" alt="touhidcodes#9825" height="40" width="50" /></a>
   </p>
 </div>
 
@@ -67,20 +66,8 @@ security, role-based access control, and real-time synchronization to contribute
 <br/>
 
 <!--- statistics --->
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS:</b>
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> MY PROJECTS:</b>
 
-### GitHub Contributions:
-![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
-
-### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafiz002&theme=swift&layout=compact" /> </a> | <a><img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafiz002&theme=react-dark&hide_border=true&area=true&bg_color=000000" width="55%"/></a> |
-| ------------- | ------------- |
-
-
-
-<br/>
-
-## My Projects:
 Check the pinned repositories below 👇
 
 </div>
@@ -88,4 +75,5 @@ Check the pinned repositories below 👇
 <p align="left" style="background-color: #000000; padding: 10px; border-radius: 5px;">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafiz002&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
 </p>
+<br/>
 
