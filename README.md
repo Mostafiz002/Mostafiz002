@@ -40,13 +40,25 @@ security, role-based access control, and real-time synchronization to contribute
 <!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> CONNECT WITH ME:</b>
 
-<div>
-  <p align="left" style="display:flex;">
-    <a href="https://www.linkedin.com/in/mostafiz04/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" width="50" /></a>
-    <a href="https://discord.com/users/1265744554636873768" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="40" width="50" /></a>
-    <a  href="mailto:mo.mahin4@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="mo.mahin4@gmail.com" height="40" width="50" /></a>
-  </p>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/mostafiz04/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://discord.com/users/1265744554636873768" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord" height="40" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:mo.mahin4@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
