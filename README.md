@@ -17,9 +17,9 @@
 <table>
 <tr>
 <td width="65%">
-<h3>Driven MERN Stack Developer and CSE student, passionate about solving complex problems through technology. Proven track record
+<p>Driven MERN Stack Developer and CSE student, passionate about solving complex problems through technology. Proven track record
 of developing secure, responsive applications with React, Node.js, and PostgreSQL/MongoDB. Eager to leverage my expertise in API
-security, role-based access control, and real-time synchronization to contribute to impactful, real-world digital solutions.</h3>
+security, role-based access control, and real-time synchronization to contribute to impactful, real-world digital solutions.</p>
 
 - Working toward developing advanced full-stack skills
 - 📫 Reach me anytime: **mo.mahin4@gmail.com**
